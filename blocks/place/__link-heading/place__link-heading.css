@@ -1,0 +1,15 @@
+.place__link-heading {
+  margin: 0 0 12px;
+  color: #aaa;
+  font-size: 12px;
+  font-weight: normal;
+  line-height: 1;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+@media screen and (max-width: 425px) {
+  .place__link-heading {
+    padding: 0 16px;
+  }
+}
