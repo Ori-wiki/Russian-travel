@@ -1,5 +1,5 @@
 # Проект: Путешествие по России
-
+[:link: Просмотреть страницу в GitHub Pages](https://ori-wiki.github.io/Russian-travel/)
 ### Проектная работа: "Путешествие по России" от [Яндекс.Практикум](https://practicum.yandex.ru/web/)
 
 ## Описание проекта
